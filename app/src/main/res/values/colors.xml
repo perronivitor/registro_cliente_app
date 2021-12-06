@@ -7,4 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <!-- App Colors-->
+    <color name="primary">#001960</color>
+    <color name="primaryLight">#3f3f8e</color>
+    <color name="primaryDark">#000036</color>
+
+    <color name="secondary">#0E6CAF</color>
+    <color name="secondaryLight">#579ae1</color>
+    <color name="secondaryDark">#00427f</color>
+    <color name="backgroundColor">#F9F9F9</color>
+
+    <color name="grenn_my">#4CAF50</color>
+    <color name="red_light_my">#33FF0707</color>
+    <color name="red_my">#FF0707</color>
 </resources>
