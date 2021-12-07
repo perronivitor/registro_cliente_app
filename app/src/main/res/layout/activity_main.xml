@@ -14,15 +14,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:elevation="0dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
+        android:theme="@style/Theme.RegistroClienteAPP.AppBarOverlay">
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="@color/primary"
-            app:titleTextColor="@color/white" />
+            app:popupTheme="@style/Theme.RegistroClienteAPP.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>
 

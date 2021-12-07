@@ -8,6 +8,10 @@
     <string name="action_settings">Settings</string>
 
     <string name="obrigaorio">*Obrigatório</string>
+    <string name="error_generic">Erro inesperado ao executar a tarefa</string>
+    <string name="usuario_inserido_sucesso">Usuário inserido com sucesso</string>
+    <string name="usuario_atualizado_sucesso">Usuário atualizado com sucesso</string>
+    <string name="usuario_removido_sucesso">Usuário removido com sucesso</string>
 
     <!--Rotina HOME-->
     <string name="card_item_tv_matricula">Matrícula</string>
